@@ -36,5 +36,8 @@
   - [Javascript Tutorial - Learn From Scratch](https://www.scaler.com/topics/javascript/)
   - [Javascript Interview Questions and Answers](https://www.interviewbit.com/javascript-interview-questions)
 
+- LeetCode
+  - [Beginner Roadmap](https://leetcode.com/discuss/study-guide/1695439/my-interview-roadmap-as-a-beginner-2022)
+
 
 Best of luck!!!
